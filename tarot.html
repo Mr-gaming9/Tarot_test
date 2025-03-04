@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Doodle Tarot Reader</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, #1a0b2e, #2e1a47);
+            color: #f5e8c7;
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            text-align: center;
+        }
+        h2 {
+            color: #d4af37;
+            font-size: 2em;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+            margin-bottom: 20px;
+        }
+        #canvas { 
+            border: 3px solid #d4af37;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(212, 175, 55, 0.5);
+            display: block;
+            margin: 0 auto 20px;
+        }
+        #controls { 
+            margin: 20px auto;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        #controls label {
+            font-size: 1.1em;
+            color: #f5e8c7;
+        }
+        #controls select {
+            background: #3e2c5e;
+            color: #f5e8c7;
+            border: 2px solid #d4af37;
+            border-radius: 5px;
+            padding: 8px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        #controls select:hover {
+            background: #4e3c6e;
+        }
+        #generateBtn, #resetBtn { 
+            background: #d4af37;
+            color: #1a0b2e;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            font-size: 1.1em;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            transition: transform 0.2s;
+        }
+        #generateBtn:hover, #resetBtn:hover {
+            transform: scale(1.05);
+            background: #e6c84f;
+        }
+        #results { 
+            max-width: 800px;
+            margin: 30px auto;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        #results h3 {
+            color: #d4af37;
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+        }
+        #results .card {
+            background: #2e1a47;
+            border: 2px solid #d4af37;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+        #results i {
+            color: #c9b68e;
+            font-style: italic;
+        }
+        #prompt {
+            color: #f5e8c7;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Doodle Your Fate</h2>
+    <canvas id="canvas" width="256" height="256"></canvas>
+    <div id="controls">
+        <label for="theme">Reading Theme:</label>
+        <select id="theme">
+            <option value="love">Love</option>
+            <option value="career">Career</option>
+            <option value="general">General</option>
+        </select>
+        <label for="rounds">Number of Cards:</label>
+        <select id="rounds">
+            <option value="3">3 Cards (1 Round)</option>
+            <option value="6">6 Cards (2 Rounds)</option>
+            <option value="9">9 Cards (3 Rounds)</option>
+        </select>
+        <button id="generateBtn">Generate Reading</button>
+        <button id="resetBtn">Reset Doodle</button>
+    </div>
+    <div id="results"></div>
+    <div id="prompt"></div>
+
+    <script>
+        // Canvas setup
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = 'white';
+        ctx.fillRect(0, 0, 256, 256);
+        let drawing = false;
+
+        canvas.addEventListener('mousedown', () => drawing = true);
+        canvas.addEventListener('mouseup', () => drawing = false);
+        canvas.addEventListener('mousemove', (e) => {
+            if (drawing) {
+                const rect = canvas.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+                ctx.fillStyle = 'black';
+                ctx.fillRect(Math.floor(x), Math.floor(y), 2, 2);
+            }
+        });
+
+        // Reset button
+        document.getElementById('resetBtn').addEventListener('click', () => {
+            ctx.fillStyle = 'white';
+            ctx.fillRect(0, 0, 256, 256);
+            document.getElementById('results').innerHTML = '';
+            document.getElementById('prompt').innerHTML = '';
+            currentRound = 0;
+            usedCards.clear();
+            document.removeEventListener('keydown', handleSpacebar);
+        });
+
+        // Tarot deck
+        const deck = [
+            'The Fool', 'The Magician', 'The High Priestess', 'The Empress', 'The Emperor',
+            'The Hierophant', 'The Lovers', 'The Chariot', 'Strength', 'The Hermit',
+            'Wheel of Fortune', 'Justice', 'The Hanged Man', 'Death', 'Temperance',
+            'The Devil', 'The Tower', 'The Star', 'The Moon', 'The Sun',
+            'Judgement', 'The World',
+            'Ace of Wands', 'Two of Wands', 'Three of Wands', 'Four of Wands', 'Five of Wands',
+            'Six of Wands', 'Seven of Wands', 'Eight of Wands', 'Nine of Wands', 'Ten of Wands',
+            'Page of Wands', 'Knight of Wands', 'Queen of Wands', 'King of Wands',
+            'Ace of Cups', 'Two of Cups', 'Three of Cups', 'Four of Cups', 'Five of Cups',
+            'Six of Cups', 'Seven of Cups', 'Eight of Cups', 'Nine of Cups', 'Ten of Cups',
+            'Page of Cups', 'Knight of Cups', 'Queen of Cups', 'King of Cups',
+            'Ace of Swords', 'Two of Swords', 'Three of Swords', 'Four of Swords', 'Five of Swords',
+            'Six of Swords', 'Seven of Swords', 'Eight of Swords', 'Nine of Swords', 'Ten of Swords',
+            'Page of Swords', 'Knight of Swords', 'Queen of Swords', 'King of Swords',
+            'Ace of Pentacles', 'Two of Pentacles', 'Three of Pentacles', 'Four of Pentacles', 'Five of Pentacles',
+            'Six of Pentacles', 'Seven of Pentacles', 'Eight of Pentacles', 'Nine of Pentacles', 'Ten of Pentacles',
+            'Page of Pentacles', 'Knight of Pentacles', 'Queen of Pentacles', 'King of Pentacles'
+        ];
+
+        // Simple hash
+        function simpleHash(input, roundOffset) {
+            let hash = roundOffset;
+            for (let i = 0; i < input.length; i++) {
+                hash = (hash << 5) - hash + input.charCodeAt(i);
+                hash = hash >>> 0;
+            }
+            return hash.toString(16).padStart(8, '0');
+        }
+
+        // State
+        let currentRound = 0;
+        let totalRounds = 0;
+        let theme = '';
+        const usedCards = new Set();
+        let meanings = {};
+
+        // Generate reading
+        document.getElementById('generateBtn').addEventListener('click', () => {
+            theme = document.getElementById('theme').value;
+            fetch(`${theme}.json`)
+                .then(response => {
+                    if (!response.ok) throw new Error('Failed to load JSON');
+                    return response.json();
+                })
+                .then(data => {
+                    meanings = data;
+                    const numCards = parseInt(document.getElementById('rounds').value);
+                    totalRounds = numCards / 3;
+                    currentRound = 0;
+                    usedCards.clear();
+                    displayRound();
+                })
+                .catch(error => {
+                    console.error('Error fetching JSON:', error);
+                    document.getElementById('results').innerHTML = 'Erreur : Impossible de charger les significations. Vérifiez les fichiers JSON.';
+                });
+        });
+
+        // Display a round
+        function displayRound() {
+            const results = document.getElementById('results');
+            if (currentRound === 0) {
+                results.innerHTML = `<h3>Your ${theme.charAt(0).toUpperCase() + theme.slice(1)} Reading (${totalRounds * 3} Cards)</h3>`;
+            }
+
+            // Get current doodle state
+            const imageData = ctx.getImageData(0, 0, 256, 256).data;
+            let bitstream = '';
+            for (let i = 0; i < imageData.length; i += 4) {
+                bitstream += (imageData[i] === 0 ? '0' : '1');
+            }
+            const hash = simpleHash(bitstream, currentRound);
+
+            // Draw 3 unique cards
+            const roundCards = [];
+            for (let i = 0; i < 3 && (currentRound * 3 + i) < totalRounds * 3; i++) {
+                let seed = parseInt(hash.substr(i * 2, 2), 16) + i;
+                let cardIndex = seed % 78;
+                while (usedCards.has(cardIndex)) {
+                    cardIndex = (cardIndex + 1) % 78;
+                }
+                usedCards.add(cardIndex);
+                roundCards.push(deck[cardIndex]);
+            }
+
+            // Build output
+            let output = `<b>Round ${currentRound + 1}:</b><br>`;
+            if (roundCards[0]) {
+                output += `<div class="card">`;
+                output += `Past: ${roundCards[0]}<br>`;
+                output += `<i>Meaning:</i> ${meanings[roundCards[0]]?.meaning || 'Not defined'}<br>`;
+                output += `<i>Interpretation:</i> ${meanings[roundCards[0]]?.interpretation || 'Not defined'}<br>`;
+                output += `<i>Elaborated:</i> ${meanings[roundCards[0]]?.elaborated_interpretation || 'Not defined'}`;
+                output += `</div>`;
+            }
+            if (roundCards[1]) {
+                output += `<div class="card">`;
+                output += `Present: ${roundCards[1]}<br>`;
+                output += `<i>Meaning:</i> ${meanings[roundCards[1]]?.meaning || 'Not defined'}<br>`;
+                output += `<i>Interpretation:</i> ${meanings[roundCards[1]]?.interpretation || 'Not defined'}<br>`;
+                output += `<i>Elaborated:</i> ${meanings[roundCards[1]]?.elaborated_interpretation || 'Not defined'}`;
+                output += `</div>`;
+            }
+            if (roundCards[2]) {
+                output += `<div class="card">`;
+                output += `Future: ${roundCards[2]}<br>`;
+                output += `<i>Meaning:</i> ${meanings[roundCards[2]]?.meaning || 'Not defined'}<br>`;
+                output += `<i>Interpretation:</i> ${meanings[roundCards[2]]?.interpretation || 'Not defined'}<br>`;
+                output += `<i>Elaborated:</i> ${meanings[roundCards[2]]?.elaborated_interpretation || 'Not defined'}`;
+                output += `</div>`;
+            }
+            results.innerHTML += output + '<br>';
+
+            currentRound++;
+            if (currentRound < totalRounds) {
+                document.getElementById('prompt').innerHTML = `Modify your doodle, then press Spacebar for Round ${currentRound + 1}`;
+                document.addEventListener('keydown', handleSpacebar);
+            } else {
+                document.getElementById('prompt').innerHTML = 'Reading Complete! Reset to start anew.';
+                document.removeEventListener('keydown', handleSpacebar);
+            }
+        }
+
+        // Handle spacebar press
+        function handleSpacebar(e) {
+            if (e.key === ' ' && currentRound < totalRounds) {
+                e.preventDefault();
+                document.removeEventListener('keydown', handleSpacebar);
+                displayRound();
+            }
+        }
+    </script>
+</body>
+</html>

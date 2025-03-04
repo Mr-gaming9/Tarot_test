@@ -1,0 +1,392 @@
+{
+    "The Fool": {
+        "meaning": "New beginnings, spontaneity, adventure.",
+        "interpretation": "A fresh start in romance, embracing vulnerability.",
+        "elaborated_interpretation": "Vous entrez dans une phase où l’amour est une aventure inattendue. Peut-être une rencontre spontanée ou une ouverture à des sentiments nouveaux, sans peur du jugement. C’est un appel à laisser derrière les attentes et à plonger dans l’inconnu du cœur."
+    },
+    "The Magician": {
+        "meaning": "Manifestation, skill, willpower.",
+        "interpretation": "Creating the relationship you desire with confidence.",
+        "elaborated_interpretation": "Vous avez le pouvoir de façonner votre vie amoureuse. Vos désirs profonds peuvent se concrétiser grâce à votre assurance et votre capacité à agir. C’est le moment de prendre les rênes et de transformer vos rêves romantiques en réalité."
+    },
+    "The High Priestess": {
+        "meaning": "Intuition, mystery, inner wisdom.",
+        "interpretation": "Trusting your gut in matters of the heart.",
+        "elaborated_interpretation": "L’amour vous appelle à écouter votre voix intérieure. Peut-être ressentez-vous une connexion inexplicable ou un mystère autour d’un partenaire. Faites confiance à vos instincts pour guider vos choix amoureux."
+    },
+    "The Empress": {
+        "meaning": "Abundance, nurturing, creativity.",
+        "interpretation": "A nurturing, bountiful connection.",
+        "elaborated_interpretation": "Une relation empreinte de tendresse et de générosité se dessine. C’est un amour fertile, où vous et votre partenaire vous épanouissez mutuellement, comme une terre riche qui donne vie à de belles choses."
+    },
+    "The Emperor": {
+        "meaning": "Authority, structure, stability.",
+        "interpretation": "A relationship with strong boundaries or leadership.",
+        "elaborated_interpretation": "L’amour prend une forme stable et sécurisante, peut-être avec un partenaire qui impose des règles claires ou qui offre une présence solide. C’est une dynamique où l’équilibre repose sur la force et la protection."
+    },
+    "The Hierophant": {
+        "meaning": "Tradition, guidance, conformity.",
+        "interpretation": "A conventional or committed partnership.",
+        "elaborated_interpretation": "Votre parcours amoureux s’oriente vers une union traditionnelle—peut-être un engagement formel comme le mariage. C’est un amour guidé par des valeurs établies, où la stabilité et la fidélité priment."
+    },
+    "The Lovers": {
+        "meaning": "Love, harmony, choices.",
+        "interpretation": "A deep bond or a pivotal romantic decision.",
+        "elaborated_interpretation": "Un amour profond et harmonieux se manifeste, ou une décision cruciale s’impose dans votre vie romantique. C’est un moment où le cœur et l’esprit doivent s’aligner pour choisir ce qui vous unit vraiment."
+    },
+    "The Chariot": {
+        "meaning": "Determination, control, victory.",
+        "interpretation": "Driving a relationship forward with purpose.",
+        "elaborated_interpretation": "Vous prenez les rênes de votre vie amoureuse avec détermination. Que ce soit pour surmonter des obstacles ou pousser une relation vers un objectif clair, cet amour avance grâce à votre volonté."
+    },
+    "Strength": {
+        "meaning": "Courage, inner strength, patience.",
+        "interpretation": "Enduring challenges with grace in romance.",
+        "elaborated_interpretation": "L’amour demande du courage et une force intérieure. Peut-être traversez-vous des épreuves avec un partenaire, mais votre patience et votre douceur maintiennent la flamme vive."
+    },
+    "The Hermit": {
+        "meaning": "Soul-searching, reflection, solitude.",
+        "interpretation": "Time alone to understand your heart.",
+        "elaborated_interpretation": "Un temps de solitude vous aide à clarifier ce que vous cherchez en amour. C’est une pause introspective pour écouter vos désirs profonds, loin du bruit des relations passées ou actuelles."
+    },
+    "Wheel of Fortune": {
+        "meaning": "Change, cycles, luck.",
+        "interpretation": "A turn of fate in your romantic life.",
+        "elaborated_interpretation": "Le destin joue un rôle dans votre amour. Une rencontre inattendue ou un changement soudain pourrait bouleverser votre cœur, vous rappelant que l’amour suit parfois des cycles imprévisibles."
+    },
+    "Justice": {
+        "meaning": "Fairness, truth, balance.",
+        "interpretation": "A relationship rooted in honesty.",
+        "elaborated_interpretation": "L’amour repose sur la vérité et l’équilibre. Peut-être une relation où chacun reçoit ce qu’il mérite, ou un moment où la justice karmique rétablit l’harmonie dans votre vie romantique."
+    },
+    "The Hanged Man": {
+        "meaning": "Surrender, perspective, letting go.",
+        "interpretation": "Releasing control in a relationship.",
+        "elaborated_interpretation": "Vous apprenez à lâcher prise dans l’amour, acceptant que certaines choses échappent à votre contrôle. Cette suspension peut apporter une nouvelle vision, menant à une connexion plus profonde."
+    },
+    "Death": {
+        "meaning": "Transformation, endings, renewal.",
+        "interpretation": "An old romance fades, making way for new.",
+        "elaborated_interpretation": "Une phase amoureuse se termine, mais c’est pour laisser place à une renaissance. Peut-être une rupture ou un changement radical qui ouvre la porte à un amour plus authentique."
+    },
+    "Temperance": {
+        "meaning": "Balance, moderation, harmony.",
+        "interpretation": "Finding equilibrium with a partner.",
+        "elaborated_interpretation": "L’amour se construit dans une harmonie douce et patiente. Vous et votre partenaire trouvez un rythme équilibré, mélangeant vos énergies pour une relation apaisée."
+    },
+    "The Devil": {
+        "meaning": "Bondage, temptation, materialism.",
+        "interpretation": "A toxic or obsessive attachment.",
+        "elaborated_interpretation": "Un amour vous enchaîne, peut-être par désir ou dépendance. C’est une relation intense mais potentiellement destructrice, où il faudra briser les chaînes pour retrouver la liberté."
+    },
+    "The Tower": {
+        "meaning": "Sudden change, upheaval, revelation.",
+        "interpretation": "A shocking shift in a relationship.",
+        "elaborated_interpretation": "Un événement inattendu secoue votre vie amoureuse—une rupture, une vérité révélée ou une passion soudaine. Bien que déstabilisant, cela peut libérer un amour plus vrai."
+    },
+    "The Star": {
+        "meaning": "Hope, inspiration, healing.",
+        "interpretation": "Renewed faith in romance.",
+        "elaborated_interpretation": "Après une période sombre, l’espoir renaît dans votre cœur. Une lumière guide vos sentiments, promettant guérison et une connexion inspirante à venir."
+    },
+    "The Moon": {
+        "meaning": "Illusion, uncertainty, intuition.",
+        "interpretation": "Confusion or hidden feelings.",
+        "elaborated_interpretation": "L’amour est voilé de mystère. Peut-être des émotions cachées ou des doutes brouillent votre vue. Fiez-vous à votre intuition pour naviguer dans cette brume romantique."
+    },
+    "The Sun": {
+        "meaning": "Joy, success, vitality.",
+        "interpretation": "A radiant, happy connection.",
+        "elaborated_interpretation": "L’amour brille comme un soleil éclatant. Une relation joyeuse et pleine de vie s’épanouit, apportant chaleur et bonheur à chaque instant partagé."
+    },
+    "Judgement": {
+        "meaning": "Awakening, decisions, reckoning.",
+        "interpretation": "A wake-up call in romance.",
+        "elaborated_interpretation": "Un moment de vérité approche, où vous devrez écouter votre cœur et peut-être réévaluer ce que vous voulez vraiment en amour. Une transformation majeure est possible, un appel à renaître dans une relation plus alignée."
+    },
+    "The World": {
+        "meaning": "Completion, fulfillment, unity.",
+        "interpretation": "A relationship reaches wholeness.",
+        "elaborated_interpretation": "L’amour atteint un état de plénitude. Que ce soit la fin d’un cycle ou l’accomplissement d’une union, vous trouvez une complétude qui résonne dans tout votre être."
+    },
+    "Ace of Wands": {
+        "meaning": "Inspiration, potential, new ventures.",
+        "interpretation": "Sparks of passion ignite.",
+        "elaborated_interpretation": "Une flamme nouvelle s’allume dans votre vie amoureuse. Une attirance soudaine ou un regain de passion marque le début d’une aventure romantique excitante."
+    },
+    "Two of Wands": {
+        "meaning": "Planning, ambition, exploration.",
+        "interpretation": "Mapping out a future together.",
+        "elaborated_interpretation": "Vous et un partenaire commencez à rêver d’un avenir commun. C’est une phase de planification où l’amour se teinte d’ambition et de projets partagés."
+    },
+    "Three of Wands": {
+        "meaning": "Expansion, foresight, progress.",
+        "interpretation": "A relationship grows stronger.",
+        "elaborated_interpretation": "Votre amour s’étend et se solidifie. Les graines plantées commencent à porter fruit, et vous voyez un futur prometteur se dessiner à l’horizon."
+    },
+    "Four of Wands": {
+        "meaning": "Celebration, stability, homecoming.",
+        "interpretation": "Joyful milestones with a partner.",
+        "elaborated_interpretation": "Un moment de célébration marque votre relation—peut-être un engagement ou une étape heureuse. L’amour trouve un foyer stable et festif."
+    },
+    "Five of Wands": {
+        "meaning": "Conflict, competition, tension.",
+        "interpretation": "Petty arguments with a lover.",
+        "elaborated_interpretation": "Des tensions mineures émergent dans votre couple. Ces petits conflits peuvent être surmontés avec patience, mais ils testent votre capacité à rester unis."
+    },
+    "Six of Wands": {
+        "meaning": "Victory, recognition, success.",
+        "interpretation": "Pride in a flourishing romance.",
+        "elaborated_interpretation": "Votre amour triomphe et attire l’admiration. Une relation qui prospère vous remplit de fierté, comme une victoire célébrée ensemble."
+    },
+    "Seven of Wands": {
+        "meaning": "Defense, perseverance, standing firm.",
+        "interpretation": "Protecting your heart.",
+        "elaborated_interpretation": "Vous défendez votre espace amoureux avec courage. Peut-être luttez-vous contre des interférences extérieures ou des doutes internes pour préserver ce qui compte."
+    },
+    "Eight of Wands": {
+        "meaning": "Speed, movement, swift action.",
+        "interpretation": "Romance moves fast.",
+        "elaborated_interpretation": "L’amour accélère soudainement—une rencontre rapide ou une passion qui s’enflamme. Tout semble se mettre en place avec une énergie irrésistible."
+    },
+    "Nine of Wands": {
+        "meaning": "Resilience, persistence, boundaries.",
+        "interpretation": "Guarding your emotions.",
+        "elaborated_interpretation": "Vous protégez votre cœur après des blessures passées. Cette résilience montre votre force, mais elle peut aussi vous pousser à ériger des murs—êtes-vous prêt à les abaisser ?"
+    },
+    "Ten of Wands": {
+        "meaning": "Burden, responsibility, hard work.",
+        "interpretation": "Carrying too much in a relationship.",
+        "elaborated_interpretation": "L’amour devient un poids. Peut-être portez-vous trop de responsabilités ou de attentes, et il est temps de partager la charge ou de lâcher prise."
+    },
+    "Page of Wands": {
+        "meaning": "Enthusiasm, exploration, news.",
+        "interpretation": "A playful, adventurous flirt.",
+        "elaborated_interpretation": "Un flirt léger et enthousiaste entre dans votre vie. C’est une étincelle d’excitation qui invite à explorer l’amour avec une joie enfantine."
+    },
+    "Knight of Wands": {
+        "meaning": "Action, passion, impulsiveness.",
+        "interpretation": "A whirlwind romance.",
+        "elaborated_interpretation": "Une passion fougueuse vous emporte. Ce chevalier apporte une relation intense et rapide, pleine de feu mais peut-être éphémère si elle n’est pas ancrée."
+    },
+    "Queen of Wands": {
+        "meaning": "Confidence, warmth, independence.",
+        "interpretation": "A magnetic, self-assured partner.",
+        "elaborated_interpretation": "Un amour rayonnant entre en scène—quelqu’un de confiant et chaleureux, ou peut-être vous-même, attirant les autres par votre aura vibrante."
+    },
+    "King of Wands": {
+        "meaning": "Leadership, vision, boldness.",
+        "interpretation": "A commanding, inspiring lover.",
+        "elaborated_interpretation": "Un partenaire audacieux et visionnaire guide votre cœur. Cet amour est porté par une force qui inspire, offrant une direction claire et passionnée."
+    },
+    "Ace of Cups": {
+        "meaning": "New emotions, love, intuition.",
+        "interpretation": "A fresh wave of romance.",
+        "elaborated_interpretation": "Une nouvelle vague d’amour déferle sur vous. C’est un débordement d’émotions pures, une chance de plonger dans une connexion profonde et intuitive."
+    },
+    "Two of Cups": {
+        "meaning": "Partnership, connection, unity.",
+        "interpretation": "A soulful bond forms.",
+        "elaborated_interpretation": "Une connexion profonde s’est établie ou est en train de naître, un lien où les âmes se reconnaissent et s’harmonisent naturellement. C’est l’amour dans sa forme la plus pure."
+    },
+    "Three of Cups": {
+        "meaning": "Friendship, joy, celebration.",
+        "interpretation": "Shared happiness with loved ones.",
+        "elaborated_interpretation": "L’amour s’épanouit dans des moments de fête et de partage, entouré de ceux qui comptent. Une relation qui rayonne de joie collective et de liens chaleureux."
+    },
+    "Four of Cups": {
+        "meaning": "Apathy, reevaluation, discontent.",
+        "interpretation": "Feeling unfulfilled in romance.",
+        "elaborated_interpretation": "Vous vous sentez détaché ou insatisfait en amour. Peut-être une offre romantique est sous vos yeux, mais vous la rejetez, cherchant quelque chose de plus profond."
+    },
+    "Five of Cups": {
+        "meaning": "Loss, regret, sorrow.",
+        "interpretation": "Mourning a past love.",
+        "elaborated_interpretation": "Un chagrin d’amour vous hante. Vous pleurez ce qui a été perdu, mais cette carte vous rappelle que tout n’est pas fini—il reste des coupes pleines à saisir."
+    },
+    "Six of Cups": {
+        "meaning": "Nostalgia, memories, kindness.",
+        "interpretation": "Revisiting an old flame.",
+        "elaborated_interpretation": "Un amour du passé refait surface, teinté de nostalgie. Peut-être une réunion ou des souvenirs qui ravivent des sentiments doux et familiers."
+    },
+    "Seven of Cups": {
+        "meaning": "Choices, fantasy, illusion.",
+        "interpretation": "Dreaming of many lovers.",
+        "elaborated_interpretation": "Votre cœur est tiraillé par des fantasmes ou des options multiples. C’est un brouillard romantique où vous devez distinguer les illusions des vérités."
+    },
+    "Eight of Cups": {
+        "meaning": "Walking away, seeking, transition.",
+        "interpretation": "Leaving an unfulfilling romance.",
+        "elaborated_interpretation": "Vous tournez le dos à un amour qui ne vous nourrit plus. Cette quête intérieure vous pousse à chercher quelque chose de plus significatif."
+    },
+    "Nine of Cups": {
+        "meaning": "Satisfaction, wishes fulfilled, comfort.",
+        "interpretation": "Romantic dreams come true.",
+        "elaborated_interpretation": "Vos souhaits amoureux se réalisent. Une période de contentement et de plénitude s’ouvre, où l’amour vous comble comme un vœu exaucé."
+    },
+    "Ten of Cups": {
+        "meaning": "Happiness, family, harmony.",
+        "interpretation": "A blissful partnership.",
+        "elaborated_interpretation": "L’amour atteint une harmonie parfaite—une union où la joie familiale et la paix intérieure règnent. C’est le bonheur total avec un partenaire ou un cercle aimé."
+    },
+    "Page of Cups": {
+        "meaning": "Creativity, messages, sensitivity.",
+        "interpretation": "A sweet, emotional gesture.",
+        "elaborated_interpretation": "Un message ou un geste tendre illumine votre vie amoureuse. C’est une invitation à explorer des sentiments délicats avec une âme sensible."
+    },
+    "Knight of Cups": {
+        "meaning": "Romance, charm, idealism.",
+        "interpretation": "A charming suitor arrives.",
+        "elaborated_interpretation": "Un chevalier romantique entre en scène, plein de charme et d’idéaux. Cet amour est poétique, mais attention à ne pas vous perdre dans ses rêves."
+    },
+    "Queen of Cups": {
+        "meaning": "Compassion, intuition, nurturing.",
+        "interpretation": "A caring, intuitive partner.",
+        "elaborated_interpretation": "Un amour doux et intuitif vous entoure. Cette reine incarne une présence réconfortante, qui comprend vos émotions sans mots."
+    },
+    "King of Cups": {
+        "meaning": "Emotional balance, wisdom, calm.",
+        "interpretation": "A steady, wise lover.",
+        "elaborated_interpretation": "Un partenaire équilibré et sage guide votre cœur. Cet amour est un refuge calme, où la maturité émotionnelle offre une stabilité profonde."
+    },
+    "Ace of Swords": {
+        "meaning": "Clarity, truth, breakthrough.",
+        "interpretation": "Cutting through romantic confusion.",
+        "elaborated_interpretation": "Une vérité éclaire votre vie amoureuse. C’est un moment de clarté qui tranche les doutes, révélant ce qui compte vraiment dans vos relations."
+    },
+    "Two of Swords": {
+        "meaning": "Indecision, stalemate, choice.",
+        "interpretation": "Torn between lovers.",
+        "elaborated_interpretation": "Vous êtes face à un dilemme amoureux—peut-être un choix entre deux personnes ou entre rester et partir. Cette impasse demande une décision claire."
+    },
+    "Three of Swords": {
+        "meaning": "Heartbreak, sorrow, betrayal.",
+        "interpretation": "Pain from a breakup.",
+        "elaborated_interpretation": "Une blessure profonde marque votre cœur—une trahison ou une fin douloureuse. Ce chagrin est réel, mais il ouvre la voie à une guérison future."
+    },
+    "Four of Swords": {
+        "meaning": "Rest, recovery, contemplation.",
+        "interpretation": "Healing after romance.",
+        "elaborated_interpretation": "Après une tempête amoureuse, vous prenez du recul pour guérir. Ce repos est essentiel pour retrouver votre paix avant de rouvrir votre cœur."
+    },
+    "Five of Swords": {
+        "meaning": "Conflict, defeat, tension.",
+        "interpretation": "A fight leaves scars.",
+        "elaborated_interpretation": "Un conflit amoureux vous a blessé, peut-être une victoire coûteuse ou une dispute qui a marqué les esprits. Réparer ou avancer est maintenant le défi."
+    },
+    "Six of Swords": {
+        "meaning": "Transition, healing, moving on.",
+        "interpretation": "Leaving past hurts behind.",
+        "elaborated_interpretation": "Vous quittez les eaux troubles de l’amour passé pour un rivage plus calme. Cette transition guérit votre cœur, vous menant vers un renouveau."
+    },
+    "Seven of Swords": {
+        "meaning": "Deception, strategy, stealth.",
+        "interpretation": "Hidden truths in romance.",
+        "elaborated_interpretation": "Des secrets ou une tromperie planent sur votre amour. Peut-être un partenaire dissimule-t-il quelque chose, ou vous protégez-vous en silence."
+    },
+    "Eight of Swords": {
+        "meaning": "Restriction, fear, entrapment.",
+        "interpretation": "Feeling trapped in love.",
+        "elaborated_interpretation": "Vous vous sentez prisonnier dans une relation ou vos propres peurs. Ces chaînes sont souvent mentales—la liberté viendra en les brisant."
+    },
+    "Nine of Swords": {
+        "meaning": "Anxiety, despair, nightmares.",
+        "interpretation": "Worry over a relationship.",
+        "elaborated_interpretation": "L’amour vous hante la nuit—des angoisses sur un partenaire ou une situation vous rongent. Ce désespoir est temporaire si vous affrontez vos peurs."
+    },
+    "Ten of Swords": {
+        "meaning": "Endings, betrayal, collapse.",
+        "interpretation": "A painful romantic end.",
+        "elaborated_interpretation": "Une relation s’effondre dans la douleur, peut-être par trahison. C’est un point bas, mais aussi une fin qui libère pour un nouveau départ."
+    },
+    "Page of Swords": {
+        "meaning": "Curiosity, vigilance, new ideas.",
+        "interpretation": "Questioning a partner.",
+        "elaborated_interpretation": "Vous scrutez votre amour avec curiosité ou méfiance. Cette énergie jeune cherche des réponses, parfois trop vite—prenez garde aux malentendus."
+    },
+    "Knight of Swords": {
+        "meaning": "Ambition, action, haste.",
+        "interpretation": "Rushing into romance.",
+        "elaborated_interpretation": "Un amour précipité charge dans votre vie. Cette fougue est excitante, mais peut manquer de réflexion—ralentissez pour voir où cela mène."
+    },
+    "Queen of Swords": {
+        "meaning": "Clarity, independence, wit.",
+        "interpretation": "A sharp, honest lover.",
+        "elaborated_interpretation": "Un partenaire tranchant et indépendant entre dans votre cœur. Cet amour repose sur la vérité et une force d’esprit, sans compromis."
+    },
+    "King of Swords": {
+        "meaning": "Authority, intellect, discipline.",
+        "interpretation": "A rational partner.",
+        "elaborated_interpretation": "Un amour logique et maîtrisé vous guide. Ce roi apporte une stabilité intellectuelle, mais peut manquer de chaleur si l’émotion est négligée."
+    },
+    "Ace of Pentacles": {
+        "meaning": "Opportunity, prosperity, new wealth.",
+        "interpretation": "A stable, grounding love.",
+        "elaborated_interpretation": "Un amour solide et prometteur germe. C’est une relation qui offre sécurité et potentiel, comme une graine plantée dans une terre fertile."
+    },
+    "Two of Pentacles": {
+        "meaning": "Balance, adaptability, juggling.",
+        "interpretation": "Balancing love and life.",
+        "elaborated_interpretation": "Vous jonglez entre l’amour et d’autres priorités. Cette danse demande souplesse pour maintenir une relation harmonieuse au milieu du chaos."
+    },
+    "Three of Pentacles": {
+        "meaning": "Teamwork, skill, collaboration.",
+        "interpretation": "Building a bond together.",
+        "elaborated_interpretation": "Vous et un partenaire construisez quelque chose de durable. Cet amour grandit grâce à un effort commun, comme une maison bâtie pierre par pierre."
+    },
+    "Four of Pentacles": {
+        "meaning": "Security, control, possessiveness.",
+        "interpretation": "Clinging to a partner.",
+        "elaborated_interpretation": "Vous tenez fermement à l’amour, parfois trop. Cette possessivité cherche la sécurité, mais peut étouffer si elle n’est pas tempérée par la confiance."
+    },
+    "Five of Pentacles": {
+        "meaning": "Hardship, loss, isolation.",
+        "interpretation": "Feeling alone in love.",
+        "elaborated_interpretation": "Un sentiment de solitude ou de manque vous accable en amour. Peut-être vous sentez-vous exclu ou en difficulté—il y a pourtant une porte vers le réconfort."
+    },
+    "Six of Pentacles": {
+        "meaning": "Generosity, sharing, support.",
+        "interpretation": "Giving and receiving affection.",
+        "elaborated_interpretation": "L’amour devient un échange équitable—vous donnez et recevez avec cœur. Cette générosité renforce les liens et apaise les tensions."
+    },
+    "Seven of Pentacles": {
+        "meaning": "Patience, investment, growth.",
+        "interpretation": "Waiting for love to bloom.",
+        "elaborated_interpretation": "Vous semez des graines dans votre vie amoureuse, mais la récolte demande du temps. Patience—cet amour grandira avec soin et persévérance."
+    },
+    "Eight of Pentacles": {
+        "meaning": "Diligence, mastery, work.",
+        "interpretation": "Effort in a relationship.",
+        "elaborated_interpretation": "Vous travaillez dur pour faire fonctionner l’amour. Chaque geste compte, comme un artisan perfectionnant son art, pour bâtir une relation solide."
+    },
+    "Nine of Pentacles": {
+        "meaning": "Abundance, independence, luxury.",
+        "interpretation": "Self-sufficient in love.",
+        "elaborated_interpretation": "Vous trouvez une paix intérieure dans votre vie amoureuse, seul ou avec un partenaire. Cet amour vous rend indépendant et comblé, entouré de beauté."
+    },
+    "Ten of Pentacles": {
+        "meaning": "Legacy, stability, family wealth.",
+        "interpretation": "A lasting, secure bond.",
+        "elaborated_interpretation": "Un amour durable et ancré se construit—peut-être une famille ou une stabilité profonde. C’est une union qui traverse le temps avec richesse et racines."
+    },
+    "Page of Pentacles": {
+        "meaning": "Ambition, learning, opportunity.",
+        "interpretation": "A new, grounded connection.",
+        "elaborated_interpretation": "Un amour naissant et concret apparaît. Cette relation est une leçon, une chance d’apprendre et de grandir dans une base solide."
+    },
+    "Knight of Pentacles": {
+        "meaning": "Reliability, effort, routine.",
+        "interpretation": "A steady, dependable lover.",
+        "elaborated_interpretation": "Un partenaire fiable entre dans votre vie, ou vous devenez cette force stable. Cet amour avance lentement mais sûrement, bâti sur la constance."
+    },
+    "Queen of Pentacles": {
+        "meaning": "Nurturing, practicality, wealth.",
+        "interpretation": "A caring, stable partner.",
+        "elaborated_interpretation": "Un amour nourricier et terre-à-terre vous entoure. Cette reine offre soin et sécurité, créant un refuge où le cœur prospère."
+    },
+    "King of Pentacles": {
+        "meaning": "Success, stability, leadership.",
+        "interpretation": "A prosperous, secure love.",
+        "elaborated_interpretation": "Un amour prospère et inébranlable prend forme. Ce roi apporte une stabilité financière et émotionnelle, un pilier sur lequel s’appuyer."
+    }
+}
