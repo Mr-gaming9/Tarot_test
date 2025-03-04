@@ -2,384 +2,109 @@
     "The Fool": {
         "meaning": "New beginnings, spontaneity, adventure.",
         "interpretation": "Stepping into the unknown with optimism.",
-        "elaborated_interpretation": "Une nouvelle phase de vie commence, portée par une énergie libre et confiante. C’est le moment d’explorer sans crainte, d’embrasser l’inconnu comme une toile vierge où tout est possible."
+        "elaborated_interpretation": "A fresh chapter dawns in your life, brimming with freedom and hope. You’re diving into the unknown with a light heart, ready for whatever adventures unfold."
     },
     "The Magician": {
         "meaning": "Manifestation, skill, willpower.",
         "interpretation": "Turning ideas into reality.",
-        "elaborated_interpretation": "Vous avez tout en main pour transformer vos rêves en réalité, grâce à votre ingéniosité et votre détermination. Cette carte vous invite à canaliser vos talents pour créer quelque chose de tangible dans votre vie."
+        "elaborated_interpretation": "You’ve got the tools to make things happen—skill and determination are yours. This is your moment to transform dreams into action and shape your world."
     },
     "The High Priestess": {
         "meaning": "Intuition, mystery, inner wisdom.",
         "interpretation": "Listening to your inner voice.",
-        "elaborated_interpretation": "Un appel à plonger dans votre intériorité se fait entendre. Les réponses que vous cherchez ne sont pas dehors, mais dans le silence de votre intuition, là où réside une sagesse cachée."
+        "elaborated_interpretation": "A quiet nudge from within guides you now. Amid life’s mysteries, your intuition whispers truths—tune out the noise and trust what you feel."
     },
     "The Empress": {
         "meaning": "Abundance, nurturing, creativity.",
         "interpretation": "Embracing life’s richness.",
-        "elaborated_interpretation": "La vie vous entoure d’abondance et de beauté. C’est un moment pour nourrir vos passions, créer, et savourer les fruits de votre existence avec gratitude et générosité."
+        "elaborated_interpretation": "Life surrounds you with abundance—nurture yourself and others. Your creativity flows, filling your days with beauty and growth."
     },
     "The Emperor": {
         "meaning": "Authority, structure, stability.",
         "interpretation": "Building a solid foundation.",
-        "elaborated_interpretation": "Vous érigez une structure dans votre vie, un cadre qui offre sécurité et contrôle. C’est une invitation à prendre les rênes, à établir des bases solides pour vos projets et vos rêves."
+        "elaborated_interpretation": "You’re laying down roots with strength and order. This is about taking charge and creating a stable base for your life’s next steps."
     },
     "The Hierophant": {
         "meaning": "Tradition, guidance, conformity.",
         "interpretation": "Seeking wisdom from tradition.",
-        "elaborated_interpretation": "Vous trouvez du sens dans les enseignements du passé ou dans des figures de guidance. Cette carte suggère de respecter les voies établies tout en cherchant une vérité qui vous appartient."
+        "elaborated_interpretation": "The past offers lessons—whether from elders, customs, or established ways. You’re finding guidance in what’s stood the test of time."
     },
     "The Lovers": {
         "meaning": "Love, harmony, choices.",
         "interpretation": "Choosing what resonates with your heart.",
-        "elaborated_interpretation": "Un choix crucial se présente, où vos valeurs et votre cœur doivent s’aligner. C’est une harmonie à trouver entre vos désirs et vos engagements, une décision qui définit votre chemin."
+        "elaborated_interpretation": "A big choice looms—one that aligns your values and desires. It’s about harmony within yourself or with others, guiding your path."
     },
     "The Chariot": {
         "meaning": "Determination, control, victory.",
         "interpretation": "Steering your life with focus.",
-        "elaborated_interpretation": "Vous avancez avec une volonté de fer, maîtrisant les rênes de votre destin. Cette carte célèbre votre capacité à surmonter les obstacles pour atteindre vos objectifs."
+        "elaborated_interpretation": "You’re in the driver’s seat, pushing forward with grit. Obstacles bow to your will as you charge toward triumph."
     },
     "Strength": {
         "meaning": "Courage, inner strength, patience.",
         "interpretation": "Mastering your fears.",
-        "elaborated_interpretation": "Une force intérieure vous guide à travers les défis. Avec patience et courage, vous domptez vos doutes, prouvant que la vraie puissance vient de la douceur et de la résilience."
+        "elaborated_interpretation": "Your inner courage shines through life’s trials. With patience and quiet power, you tame doubts and rise above challenges."
     },
     "The Hermit": {
         "meaning": "Soul-searching, reflection, solitude.",
         "interpretation": "Finding answers within.",
-        "elaborated_interpretation": "Un temps de retraite vous appelle. En vous isolant du bruit extérieur, vous découvrez des vérités profondes sur vous-même, éclairant votre chemin avec une lanterne intérieure."
+        "elaborated_interpretation": "Solitude beckons, offering clarity. Step back from the crowd to search your soul—wisdom lights the way from within."
     },
     "Wheel of Fortune": {
         "meaning": "Change, cycles, luck.",
         "interpretation": "Riding life’s ups and downs.",
-        "elaborated_interpretation": "La roue tourne, apportant des changements imprévisibles. Acceptez les cycles de la vie—les hauts comme les bas—car chaque tour offre une chance de croissance ou de renouveau."
+        "elaborated_interpretation": "Life spins its wheel—ups, downs, and twists of fate. Embrace the cycles, knowing each turn brings growth or chance."
     },
     "Justice": {
         "meaning": "Fairness, truth, balance.",
         "interpretation": "Karma balancing the scales.",
-        "elaborated_interpretation": "L’équilibre se rétablit dans votre vie. Vos actions passées portent leurs fruits, bons ou mauvais, et cette carte vous pousse à chercher la vérité et la justice dans vos choix."
+        "elaborated_interpretation": "What you’ve given comes back—good or bad. Truth reigns now, restoring balance to your life’s equation."
     },
     "The Hanged Man": {
         "meaning": "Surrender, perspective, letting go.",
         "interpretation": "Accepting a delay for growth.",
-        "elaborated_interpretation": "Vous êtes suspendu, invité à lâcher prise et à voir les choses sous un nouvel angle. Ce sacrifice temporaire ouvre la porte à une compréhension plus profonde de votre parcours."
+        "elaborated_interpretation": "You’re hanging in limbo, but it’s a gift. Letting go shifts your view, revealing insights that fuel your evolution."
     },
     "Death": {
         "meaning": "Transformation, endings, renewal.",
         "interpretation": "Embracing inevitable change.",
-        "elaborated_interpretation": "Une fin marque votre vie, mais elle est le prélude à un renouveau. Laissez mourir ce qui ne sert plus pour permettre à une version plus authentique de vous-même d’émerger."
+        "elaborated_interpretation": "Something ends—a phase, a habit—but it’s not the end. Transformation clears the old, birthing a renewed you."
     },
     "Temperance": {
         "meaning": "Balance, moderation, harmony.",
         "interpretation": "Patience bringing peace.",
-        "elaborated_interpretation": "Vous trouvez un équilibre délicat dans votre vie. En mélangeant patience et modération, vous créez une harmonie qui apaise les tensions et vous centre."
+        "elaborated_interpretation": "You’re blending life’s pieces with care. Patience creates a calm harmony, smoothing out rough edges."
     },
     "The Devil": {
         "meaning": "Bondage, temptation, materialism.",
         "interpretation": "Breaking free from traps.",
-        "elaborated_interpretation": "Des chaînes invisibles—peurs, désirs ou habitudes—vous retiennent. Cette carte vous défie de reconnaître ces liens et de vous libérer pour reprendre votre pouvoir."
+        "elaborated_interpretation": "Chains hold you—fear, desire, or excess. Recognize these binds and cut loose to reclaim your freedom."
     },
     "The Tower": {
         "meaning": "Sudden change, upheaval, revelation.",
         "interpretation": "Truth disrupts the status quo.",
-        "elaborated_interpretation": "Un bouleversement ébranle vos fondations. Bien que choquant, ce chaos révèle des vérités cachées, vous forçant à reconstruire sur des bases plus solides."
+        "elaborated_interpretation": "A shock topples old structures—sudden upheaval reveals raw truth. From the rubble, you rebuild stronger."
     },
     "The Star": {
         "meaning": "Hope, inspiration, healing.",
         "interpretation": "Optimism after hardship.",
-        "elaborated_interpretation": "Une lueur d’espoir brille après une période sombre. Cette étoile vous guide vers la guérison et vous inspire à croire en des jours meilleurs à venir."
+        "elaborated_interpretation": "A star rises after dark times, offering hope. Healing and inspiration light your way forward."
     },
     "The Moon": {
         "meaning": "Illusion, uncertainty, intuition.",
         "interpretation": "Trusting instincts in the dark.",
-        "elaborated_interpretation": "Vous marchez dans un brouillard d’incertitude. Les illusions abondent, mais votre intuition est votre boussole—écoutez-la pour naviguer dans cette obscurité."
+        "elaborated_interpretation": "Life’s foggy now—illusions or doubts swirl. Your intuition is your guide through this uncertain night."
     },
     "The Sun": {
         "meaning": "Joy, success, vitality.",
         "interpretation": "Life feels bright and full.",
-        "elaborated_interpretation": "La vie rayonne de joie et d’énergie. Tout s’éclaire, vos efforts portent fruit, et vous ressentez une vitalité qui célèbre chaque instant."
+        "elaborated_interpretation": "Everything glows with joy and energy—success blooms, and life feels alive with possibility."
     },
     "Judgement": {
         "meaning": "Awakening, decisions, reckoning.",
         "interpretation": "A moment of clarity.",
-        "elaborated_interpretation": "Un réveil intérieur vous appelle à juger votre vie. C’est un moment de vérité où vous prenez des décisions qui redéfinissent votre chemin vers une existence plus alignée."
+        "elaborated_interpretation": "A wake-up call rings out—judge your life and choose anew. Clarity drives you to a higher calling."
     },
     "The World": {
         "meaning": "Completion, fulfillment, unity.",
         "interpretation": "Feeling complete.",
-        "elaborated_interpretation": "Vous atteignez un état de plénitude. Un cycle se termine, et vous ressentez une unité avec le monde, célébrant l’accomplissement de vos efforts."
-    },
-    "Ace of Wands": {
-        "meaning": "Inspiration, potential, new ventures.",
-        "interpretation": "Creative energy flows.",
-        "elaborated_interpretation": "Une étincelle d’inspiration allume votre vie. C’est le début d’une aventure créative ou d’un projet qui enflamme votre esprit et vous pousse à agir."
-    },
-    "Two of Wands": {
-        "meaning": "Planning, ambition, exploration.",
-        "interpretation": "Looking ahead with intent.",
-        "elaborated_interpretation": "Vous planifiez votre futur avec ambition. Debout à la croisée des chemins, vous regardez l’horizon avec une vision claire de ce que vous voulez explorer."
-    },
-    "Three of Wands": {
-        "meaning": "Expansion, foresight, progress.",
-        "interpretation": "Steps toward success.",
-        "elaborated_interpretation": "Vos efforts commencent à porter leurs fruits. Vous avancez avec confiance, voyant les opportunités s’ouvrir grâce à votre prévoyance."
-    },
-    "Four of Wands": {
-        "meaning": "Celebration, stability, homecoming.",
-        "interpretation": "A happy, secure moment.",
-        "elaborated_interpretation": "Un instant de joie et de stabilité illumine votre vie. C’est une célébration des fondations solides que vous avez construites, un retour à un lieu de paix."
-    },
-    "Five of Wands": {
-        "meaning": "Conflict, competition, tension.",
-        "interpretation": "Clashing energies.",
-        "elaborated_interpretation": "Des tensions émergent autour de vous—peut-être des rivalités ou des désaccords. Ces conflits sont un test, une chance de clarifier vos priorités."
-    },
-    "Six of Wands": {
-        "meaning": "Victory, recognition, success.",
-        "interpretation": "A win worth celebrating.",
-        "elaborated_interpretation": "Vous triomphez et recevez les éloges mérités. Cette victoire dans votre vie est un moment de fierté, un signe que vos efforts ont été reconnus."
-    },
-    "Seven of Wands": {
-        "meaning": "Defense, perseverance, standing firm.",
-        "interpretation": "Resisting pressure.",
-        "elaborated_interpretation": "Vous tenez bon face aux défis. Cette carte vous pousse à défendre vos convictions et à persévérer, même sous la pression extérieure."
-    },
-    "Eight of Wands": {
-        "meaning": "Speed, movement, swift action.",
-        "interpretation": "Things fall into place.",
-        "elaborated_interpretation": "Tout s’accélère dans votre vie—les événements se précipitent, et les pièces du puzzle s’assemblent rapidement. C’est une période de mouvement fluide."
-    },
-    "Nine of Wands": {
-        "meaning": "Resilience, persistence, boundaries.",
-        "interpretation": "Strength after trials.",
-        "elaborated_interpretation": "Vous êtes fatigué mais résilient. Après avoir traversé des épreuves, vous tenez bon, protégeant vos limites avec une force acquise dans l’adversité."
-    },
-    "Ten of Wands": {
-        "meaning": "Burden, responsibility, hard work.",
-        "interpretation": "Feeling weighed down.",
-        "elaborated_interpretation": "Les responsabilités pèsent lourd sur vos épaules. Cette carte vous demande si vous portez trop—peut-être est-il temps de déléguer ou de poser ce fardeau."
-    },
-    "Page of Wands": {
-        "meaning": "Enthusiasm, exploration, news.",
-        "interpretation": "A burst of curiosity.",
-        "elaborated_interpretation": "Une nouvelle énergie vous anime, pleine d’enthousiasme juvénile. C’est une invitation à explorer, à poser des questions et à accueillir des nouvelles excitantes."
-    },
-    "Knight of Wands": {
-        "meaning": "Action, passion, impulsiveness.",
-        "interpretation": "Bold, fiery energy.",
-        "elaborated_interpretation": "Vous chargez dans la vie avec une passion ardente. Cette énergie audacieuse vous pousse à agir, mais attention à ne pas brûler vos étapes."
-    },
-    "Queen of Wands": {
-        "meaning": "Confidence, warmth, independence.",
-        "interpretation": "Radiating charisma.",
-        "elaborated_interpretation": "Vous brillez d’une assurance chaleureuse. Cette reine incarne une présence magnétique qui inspire et attire, guidant votre vie avec une force naturelle."
-    },
-    "King of Wands": {
-        "meaning": "Leadership, vision, boldness.",
-        "interpretation": "Taking charge of your path.",
-        "elaborated_interpretation": "Vous prenez les commandes avec une vision claire. Ce roi vous pousse à diriger votre vie avec audace, transformant vos ambitions en actions concrètes."
-    },
-    "Ace of Cups": {
-        "meaning": "New emotions, love, intuition.",
-        "interpretation": "Heartfelt beginnings.",
-        "elaborated_interpretation": "Une vague d’émotions nouvelles inonde votre vie. C’est un début chargé de cœur et d’intuition, une ouverture à des sentiments profonds et purs."
-    },
-    "Two of Cups": {
-        "meaning": "Partnership, connection, unity.",
-        "interpretation": "Mutual understanding.",
-        "elaborated_interpretation": "Une harmonie se forme avec une autre âme—ami, partenaire ou vous-même. C’est une rencontre des esprits et des cœurs, un lien de compréhension mutuelle."
-    },
-    "Three of Cups": {
-        "meaning": "Friendship, joy, celebration.",
-        "interpretation": "A festive moment.",
-        "elaborated_interpretation": "La vie se teinte de joie partagée. Cette carte célèbre les connexions qui vous entourent, un moment de fête qui réunit les âmes dans la légèreté."
-    },
-    "Four of Cups": {
-        "meaning": "Apathy, reevaluation, discontent.",
-        "interpretation": "Missing what’s offered.",
-        "elaborated_interpretation": "Vous êtes dans une phase d’insatisfaction, peut-être aveugle aux opportunités devant vous. Cette carte vous invite à réévaluer ce que vous négligez."
-    },
-    "Five of Cups": {
-        "meaning": "Loss, regret, sorrow.",
-        "interpretation": "Focusing on what’s gone.",
-        "elaborated_interpretation": "Un regret vous retient, les yeux tournés vers ce qui a été perdu. Pourtant, cette carte vous rappelle que tout n’est pas fini—il reste des espoirs à saisir."
-    },
-    "Six of Cups": {
-        "meaning": "Nostalgia, memories, kindness.",
-        "interpretation": "A sentimental glow.",
-        "elaborated_interpretation": "Les souvenirs du passé colorent votre présent d’une douce lumière. C’est un retour à des moments simples et tendres qui réchauffent votre âme."
-    },
-    "Seven of Cups": {
-        "meaning": "Choices, fantasy, illusion.",
-        "interpretation": "Sorting reality from dreams.",
-        "elaborated_interpretation": "Vous êtes face à une multitude d’options, certaines réelles, d’autres illusoires. Cette carte vous défie de clarifier vos désirs et de choisir avec sagesse."
-    },
-    "Eight of Cups": {
-        "meaning": "Walking away, seeking, transition.",
-        "interpretation": "Searching for more.",
-        "elaborated_interpretation": "Vous laissez derrière vous ce qui ne vous satisfait plus. Cette quête intérieure vous pousse à chercher un sens plus profond dans votre vie."
-    },
-    "Nine of Cups": {
-        "meaning": "Satisfaction, wishes fulfilled, comfort.",
-        "interpretation": "A wish granted.",
-        "elaborated_interpretation": "Un désir cher se réalise, apportant une satisfaction profonde. C’est un moment de contentement où la vie semble répondre à vos attentes."
-    },
-    "Ten of Cups": {
-        "meaning": "Happiness, family, harmony.",
-        "interpretation": "Total joy.",
-        "elaborated_interpretation": "Un bonheur complet enveloppe votre vie. Que ce soit dans vos relations ou votre paix intérieure, tout s’aligne pour une harmonie parfaite."
-    },
-    "Page of Cups": {
-        "meaning": "Creativity, messages, sensitivity.",
-        "interpretation": "A tender insight.",
-        "elaborated_interpretation": "Une nouvelle perspective sensible éclaire votre chemin. Cette carte apporte un message doux ou une intuition créative qui enrichit votre vie."
-    },
-    "Knight of Cups": {
-        "meaning": "Romance, charm, idealism.",
-        "interpretation": "Following your heart.",
-        "elaborated_interpretation": "Vous poursuivez vos idéaux avec cœur. Ce chevalier vous pousse à écouter vos émotions et à avancer vers ce qui vous inspire vraiment."
-    },
-    "Queen of Cups": {
-        "meaning": "Compassion, intuition, nurturing.",
-        "interpretation": "Gentle strength.",
-        "elaborated_interpretation": "Une force douce et intuitive guide votre vie. Cette reine vous encourage à embrasser la compassion, pour vous-même et pour les autres."
-    },
-    "King of Cups": {
-        "meaning": "Emotional balance, wisdom, calm.",
-        "interpretation": "Mastery of emotions.",
-        "elaborated_interpretation": "Vous atteignez une maturité émotionnelle. Ce roi incarne un calme sage, vous permettant de naviguer dans la vie avec équilibre et sérénité."
-    },
-    "Ace of Swords": {
-        "meaning": "Clarity, truth, breakthrough.",
-        "interpretation": "A moment of truth.",
-        "elaborated_interpretation": "Une clarté soudaine tranche vos doutes. Cette épée vous offre une percée mentale, révélant des vérités qui redéfinissent votre perspective."
-    },
-    "Two of Swords": {
-        "meaning": "Indecision, stalemate, choice.",
-        "interpretation": "Facing a deadlock.",
-        "elaborated_interpretation": "Vous êtes bloqué par un choix difficile. Cette impasse vous pousse à peser vos options avec soin, car une décision est nécessaire pour avancer."
-    },
-    "Three of Swords": {
-        "meaning": "Heartbreak, sorrow, betrayal.",
-        "interpretation": "Emotional wounds.",
-        "elaborated_interpretation": "Une douleur émotionnelle vous touche profondément—peut-être une perte ou une déception. Ce chagrin est un passage vers la guérison si vous l’affrontez."
-    },
-    "Four of Swords": {
-        "meaning": "Rest, recovery, contemplation.",
-        "interpretation": "Time to recharge.",
-        "elaborated_interpretation": "Après des tumultes, vous avez besoin de repos. Cette pause contemplative vous permet de récupérer et de préparer votre esprit pour la suite."
-    },
-    "Five of Swords": {
-        "meaning": "Conflict, defeat, tension.",
-        "interpretation": "Winning at a cost.",
-        "elaborated_interpretation": "Un conflit vous laisse un goût amer—une victoire ou une défaite qui blesse. Cette carte vous demande si le prix en valait la peine."
-    },
-    "Six of Swords": {
-        "meaning": "Transition, healing, moving on.",
-        "interpretation": "Smoother waters ahead.",
-        "elaborated_interpretation": "Vous quittez une période difficile pour un endroit plus calme. Cette transition marque une guérison, un passage vers une vie plus sereine."
-    },
-    "Seven of Swords": {
-        "meaning": "Deception, strategy, stealth.",
-        "interpretation": "Guarding your plans.",
-        "elaborated_interpretation": "Vous agissez en secret ou méfiez-vous des autres. Cette carte évoque une stratégie pour protéger vos intentions ou éviter une tromperie."
-    },
-    "Eight of Swords": {
-        "meaning": "Restriction, fear, entrapment.",
-        "interpretation": "Self-imposed limits.",
-        "elaborated_interpretation": "Vous vous sentez coincé, mais ces chaînes sont souvent dans votre esprit. Libérez-vous des peurs qui vous retiennent pour avancer librement."
-    },
-    "Nine of Swords": {
-        "meaning": "Anxiety, despair, nightmares.",
-        "interpretation": "Mind playing tricks.",
-        "elaborated_interpretation": "L’angoisse vous tourmente, amplifiant vos soucis. Cette carte vous invite à calmer votre esprit, car ces ombres sont souvent plus grandes dans la nuit."
-    },
-    "Ten of Swords": {
-        "meaning": "Endings, betrayal, collapse.",
-        "interpretation": "Rock bottom.",
-        "elaborated_interpretation": "Vous touchez le fond—une fin brutale ou une trahison. Mais ce point bas est aussi un tournant : il n’y a plus qu’à remonter."
-    },
-    "Page of Swords": {
-        "meaning": "Curiosity, vigilance, new ideas.",
-        "interpretation": "Sharp curiosity.",
-        "elaborated_interpretation": "Une soif de savoir vous anime. Cette carte vous pousse à poser des questions, à rester alerte et à explorer de nouvelles idées dans votre vie."
-    },
-    "Knight of Swords": {
-        "meaning": "Ambition, action, haste.",
-        "interpretation": "Swift decisions.",
-        "elaborated_interpretation": "Vous foncez avec une ambition tranchante. Cette rapidité peut ouvrir des portes, mais prenez garde à ne pas trancher trop vite sans réflexion."
-    },
-    "Queen of Swords": {
-        "meaning": "Clarity, independence, wit.",
-        "interpretation": "Cutting through noise.",
-        "elaborated_interpretation": "Une clarté mentale vous guide. Cette reine vous aide à voir au-delà des illusions, avec une indépendance et une vivacité d’esprit rares."
-    },
-    "King of Swords": {
-        "meaning": "Authority, intellect, discipline.",
-        "interpretation": "Mental mastery.",
-        "elaborated_interpretation": "Vous dominez vos pensées avec autorité. Ce roi incarne une discipline intellectuelle qui vous permet de trancher et de diriger votre vie avec précision."
-    },
-    "Ace of Pentacles": {
-        "meaning": "Opportunity, prosperity, new wealth.",
-        "interpretation": "Seeds of success.",
-        "elaborated_interpretation": "Une opportunité concrète germe dans votre vie. Cette carte plante les graines d’une prospérité future, un début tangible et prometteur."
-    },
-    "Two of Pentacles": {
-        "meaning": "Balance, adaptability, juggling.",
-        "interpretation": "Keeping plates spinning.",
-        "elaborated_interpretation": "Vous jonglez avec plusieurs aspects de votre vie. Cette danse d’adaptation montre votre capacité à rester flexible face aux défis quotidiens."
-    },
-    "Three of Pentacles": {
-        "meaning": "Teamwork, skill, collaboration.",
-        "interpretation": "Working with others.",
-        "elaborated_interpretation": "Vous construisez quelque chose de grand avec les autres. Cette carte célèbre vos compétences et la force des efforts collectifs dans votre parcours."
-    },
-    "Four of Pentacles": {
-        "meaning": "Security, control, possessiveness.",
-        "interpretation": "Fear of loss.",
-        "elaborated_interpretation": "Vous vous accrochez à ce que vous avez, cherchant la sécurité. Mais cette peur de perdre peut vous enfermer—ouvrez les mains pour recevoir plus."
-    },
-    "Five of Pentacles": {
-        "meaning": "Hardship, loss, isolation.",
-        "interpretation": "Tough times.",
-        "elaborated_interpretation": "Une période difficile vous isole ou vous prive. Cette carte rappelle que même dans la pénurie, il y a un chemin vers l’aide et la lumière."
-    },
-    "Six of Pentacles": {
-        "meaning": "Generosity, sharing, support.",
-        "interpretation": "A kind exchange.",
-        "elaborated_interpretation": "Un équilibre de donner et recevoir entre dans votre vie. Cette générosité—la vôtre ou celle des autres—crée une harmonie précieuse."
-    },
-    "Seven of Pentacles": {
-        "meaning": "Patience, investment, growth.",
-        "interpretation": "Slow progress.",
-        "elaborated_interpretation": "Vous investissez dans votre avenir, mais les résultats prennent du temps. Cette carte vous encourage à persévérer—la croissance arrive doucement."
-    },
-    "Eight of Pentacles": {
-        "meaning": "Diligence, mastery, work.",
-        "interpretation": "Hard work pays off.",
-        "elaborated_interpretation": "Vous perfectionnez votre art avec effort. Chaque tâche accomplie renforce vos compétences, promettant des récompenses pour votre dévouement."
-    },
-    "Nine of Pentacles": {
-        "meaning": "Abundance, independence, luxury.",
-        "interpretation": "Living well.",
-        "elaborated_interpretation": "Vous récoltez les fruits de votre labeur. Cette carte célèbre une vie d’abondance et d’autonomie, où vous savourez le confort mérité."
-    },
-    "Ten of Pentacles": {
-        "meaning": "Legacy, stability, family wealth.",
-        "interpretation": "Roots and riches.",
-        "elaborated_interpretation": "Votre vie s’ancre dans une stabilité durable. Cette carte évoque un héritage—matériel ou spirituel—qui assure des racines profondes et prospères."
-    },
-    "Page of Pentacles": {
-        "meaning": "Ambition, learning, opportunity.",
-        "interpretation": "Eager beginnings.",
-        "elaborated_interpretation": "Une nouvelle ambition germe avec enthousiasme. Cette carte vous invite à apprendre, à saisir une chance concrète pour bâtir votre futur."
-    },
-    "Knight of Pentacles": {
-        "meaning": "Reliability, effort, routine.",
-        "interpretation": "Slow and steady.",
-        "elaborated_interpretation": "Vous avancez avec une constance méthodique. Ce chevalier valorise l’effort régulier, posant des briques solides pour une vie stable."
-    },
-    "Queen of Pentacles": {
-        "meaning": "Nurturing, practicality, wealth.",
-        "interpretation": "Grounded abundance.",
-        "elaborated_interpretation": "Une présence nourricière et pratique enrichSorry about that, something didn't go as planned. Please try again, and if you're still seeing this message, go ahead and restart the app.
+        "elaborated_interpret
