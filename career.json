@@ -2,348 +2,391 @@
     "The Fool": {
         "meaning": "New beginnings, spontaneity, adventure.",
         "interpretation": "Taking a leap into a new job or project.",
-        "elaborated_interpretation": "Une opportunité professionnelle audacieuse se présente, un saut dans l’inconnu qui pourrait marquer le début d’un chapitre excitant. C’est le moment de suivre votre instinct et d’embrasser une aventure professionnelle sans trop vous soucier des détails."
+        "elaborated_interpretation": "A bold new opportunity beckons in your career—a leap into the unknown that could kickstart an exciting journey. It’s time to embrace the risk and dive in with optimism."
     },
     "The Magician": {
         "meaning": "Manifestation, skill, willpower.",
         "interpretation": "Using your talents to shape your path.",
-        "elaborated_interpretation": "Vous utilisez vos compétences uniques pour créer la carrière de vos rêves. Avec volonté et savoir-faire, vous transformez vos idées en actions concrètes, prenant le contrôle de votre avenir professionnel."
+        "elaborated_interpretation": "You’re harnessing your unique skills to craft the career you envision. With focus and determination, you’re turning ideas into tangible successes."
     },
     "The High Priestess": {
         "meaning": "Intuition, mystery, inner wisdom.",
         "interpretation": "Seeking hidden opportunities or insights.",
-        "elaborated_interpretation": "Votre intuition vous guide dans votre carrière. Peut-être percevez-vous des opportunités que d’autres ne voient pas encore—fiez-vous à cette sagesse intérieure pour avancer dans l’ombre des incertitudes."
+        "elaborated_interpretation": "Your gut is guiding you toward unseen possibilities at work. Trust your instincts to uncover hidden paths or insights others might miss."
     },
     "The Empress": {
         "meaning": "Abundance, nurturing, creativity.",
         "interpretation": "Growth and creativity in your work.",
-        "elaborated_interpretation": "Votre carrière s’épanouit grâce à votre créativité et à votre capacité à nourrir vos projets. C’est une période fertile où vos efforts produisent des résultats riches et durables."
+        "elaborated_interpretation": "Your career blossoms with creativity and care. This is a fertile time where your efforts yield abundant results, nurtured by your passion."
     },
     "The Emperor": {
         "meaning": "Authority, structure, stability.",
         "interpretation": "Establishing control and order at work.",
-        "elaborated_interpretation": "Vous imposez une structure solide dans votre environnement professionnel. Cette carte parle de leadership, de discipline et de la création d’une base stable pour vos ambitions."
+        "elaborated_interpretation": "You’re building a solid framework in your professional life. With authority and structure, you’re laying the groundwork for lasting stability."
     },
     "The Hierophant": {
         "meaning": "Tradition, guidance, conformity.",
         "interpretation": "Following established paths or mentors.",
-        "elaborated_interpretation": "Votre carrière bénéficie de la sagesse des traditions ou des conseils d’un mentor. C’est un moment pour respecter les méthodes éprouvées et apprendre des figures d’autorité."
+        "elaborated_interpretation": "Your career thrives by leaning on tradition or a mentor’s wisdom. Sticking to proven methods or seeking guidance keeps you on track."
     },
     "The Lovers": {
         "meaning": "Love, harmony, choices.",
         "interpretation": "Aligning work with your passions.",
-        "elaborated_interpretation": "Un choix professionnel crucial se profile—un chemin qui doit unir votre cœur et vos ambitions. Cette carte vous invite à harmoniser ce que vous aimez avec ce que vous faites."
+        "elaborated_interpretation": "A pivotal career choice looms—one that marries your skills with what you love. It’s about finding harmony between your job and your heart."
     },
     "The Chariot": {
         "meaning": "Determination, control, victory.",
         "interpretation": "Overcoming obstacles to succeed.",
-        "elaborated_interpretation": "Vous avancez dans votre carrière avec une détermination inébranlable. Cette carte célèbre votre capacité à surmonter les défis et à diriger vos efforts vers la victoire."
+        "elaborated_interpretation": "You’re driving your career forward with grit and focus, conquering challenges to reach your goals triumphant."
     },
     "Strength": {
         "meaning": "Courage, inner strength, patience.",
         "interpretation": "Quiet resilience in your work.",
-        "elaborated_interpretation": "Votre force intérieure brille dans votre carrière. Face aux pressions, vous faites preuve de patience et de courage, prouvant que la persévérance discrète mène au succès."
+        "elaborated_interpretation": "You’re weathering workplace storms with silent strength. Patience and courage keep you steady as you push through adversity."
     },
     "The Hermit": {
         "meaning": "Soul-searching, reflection, solitude.",
         "interpretation": "Stepping back to reassess your goals.",
-        "elaborated_interpretation": "Un temps de réflexion s’impose dans votre parcours professionnel. En vous retirant du tumulte, vous clarifiez vos aspirations et trouvez une direction plus authentique."
+        "elaborated_interpretation": "A pause in your career lets you reflect deeply. Solitude clarifies your ambitions, guiding you toward a truer path."
     },
     "Wheel of Fortune": {
         "meaning": "Change, cycles, luck.",
         "interpretation": "Unexpected shifts in your job.",
-        "elaborated_interpretation": "La roue tourne dans votre carrière—un changement soudain ou une chance imprévue peut tout bouleverser. Adaptez-vous aux cycles et saisissez les opportunités qui se présentent."
+        "elaborated_interpretation": "The wheel spins, bringing sudden changes—a promotion, a setback, or a stroke of luck. Ride the wave and adapt to what comes."
     },
     "Justice": {
         "meaning": "Fairness, truth, balance.",
         "interpretation": "Reaping what you’ve sown at work.",
-        "elaborated_interpretation": "Vos efforts professionnels sont jugés équitablement. Cette carte indique que vos actions passées—bonnes ou mauvaises—portent leurs fruits, rétablissant l’équilibre dans votre carrière."
+        "elaborated_interpretation": "Your hard work pays off—or past shortcuts catch up. Fairness rules your career now, balancing the scales of effort and reward."
     },
     "The Hanged Man": {
         "meaning": "Surrender, perspective, letting go.",
         "interpretation": "Pausing to see a new angle.",
-        "elaborated_interpretation": "Votre carrière est en suspens, vous poussant à lâcher prise sur le contrôle. Ce sacrifice temporaire vous offre une perspective inédite pour repenser vos priorités."
+        "elaborated_interpretation": "Your career’s on hold, giving you a fresh perspective. Letting go of control reveals new ways to approach your work."
     },
     "Death": {
         "meaning": "Transformation, endings, renewal.",
         "interpretation": "A job or phase ends, opening doors.",
-        "elaborated_interpretation": "Une transformation majeure secoue votre carrière—peut-être la fin d’un poste ou d’un projet. Cette conclusion est une porte vers un renouveau professionnel significatif."
+        "elaborated_interpretation": "A work chapter closes—maybe a job ends or a role shifts—but this ending clears the way for a transformative new start."
     },
     "Temperance": {
         "meaning": "Balance, moderation, harmony.",
         "interpretation": "Blending work and life smoothly.",
-        "elaborated_interpretation": "Vous trouvez un équilibre entre vie pro et perso. Cette harmonie patiente vous permet de gérer vos responsabilités avec fluidité et sérénité."
+        "elaborated_interpretation": "You’re finding a steady rhythm between career and personal life. Patience and balance keep your professional world flowing harmoniously."
     },
     "The Devil": {
         "meaning": "Bondage, temptation, materialism.",
         "interpretation": "Chasing status over purpose.",
-        "elaborated_interpretation": "Vous êtes piégé par des ambitions matérielles ou une obsession de statut. Cette carte vous défie de vous libérer des chaînes professionnelles qui ne vous servent plus."
+        "elaborated_interpretation": "You’re trapped by ambition—money or prestige over passion. Break free from these chains to rediscover your true career calling."
     },
     "The Tower": {
         "meaning": "Sudden change, upheaval, revelation.",
         "interpretation": "A job upheaval forces rethinking.",
-        "elaborated_interpretation": "Un choc inattendu—licenciement, révélation ou restructuration—ébranle votre carrière. Ce chaos vous oblige à reconstruire sur des bases plus vraies."
+        "elaborated_interpretation": "A shock rocks your career—layoff, scandal, or sudden change. It’s jarring, but this collapse builds a stronger foundation."
     },
     "The Star": {
         "meaning": "Hope, inspiration, healing.",
         "interpretation": "A guiding light in your work.",
-        "elaborated_interpretation": "Après une période difficile, une lueur d’espoir éclaire votre carrière. Cette carte promet inspiration et guérison, vous guidant vers un avenir professionnel lumineux."
+        "elaborated_interpretation": "Hope shines after a tough stretch. Inspiration and healing light your career path, pointing toward a brighter future."
     },
     "The Moon": {
         "meaning": "Illusion, uncertainty, intuition.",
         "interpretation": "Unclear paths at work.",
-        "elaborated_interpretation": "Votre carrière est enveloppée de mystère ou de doutes. Faites confiance à votre intuition pour naviguer dans cette incertitude et éviter les pièges des illusions."
+        "elaborated_interpretation": "Your career feels foggy—uncertainty or hidden motives cloud the way. Lean on your intuition to find clarity."
     },
     "The Sun": {
         "meaning": "Joy, success, vitality.",
         "interpretation": "Thriving in your role.",
-        "elaborated_interpretation": "Votre carrière brille de succès et de vitalité. Tout s’aligne pour une période de prospérité et de satisfaction dans votre travail."
+        "elaborated_interpretation": "Your career radiates success and energy. Everything aligns, and you’re basking in the glow of professional fulfillment."
     },
     "Judgement": {
         "meaning": "Awakening, decisions, reckoning.",
         "interpretation": "Judging your career path.",
-        "elaborated_interpretation": "Un réveil professionnel vous appelle à évaluer votre parcours. C’est un moment de décision où vous redéfinissez vos ambitions pour un futur plus aligné."
+        "elaborated_interpretation": "A wake-up call reshapes your work life. Evaluate where you stand and make bold choices to align with your true purpose."
     },
     "The World": {
         "meaning": "Completion, fulfillment, unity.",
         "interpretation": "Achieving a major goal.",
-        "elaborated_interpretation": "Un cycle professionnel se termine en apothéose. Vous atteignez un objectif majeur, ressentant une complétude qui couronne vos efforts."
+        "elaborated_interpretation": "A career milestone is reached—a project wraps or a dream job lands. You feel whole, your efforts crowned with success."
     },
     "Ace of Wands": {
         "meaning": "Inspiration, potential, new ventures.",
         "interpretation": "A bold new project begins.",
-        "elaborated_interpretation": "Une étincelle créative allume votre carrière. C’est le début d’une entreprise ou d’un projet audacieux, plein de potentiel et d’énergie."
+        "elaborated_interpretation": "A spark of inspiration lights up your career—a new venture or idea brimming with potential takes off with fiery energy."
     },
     "Two of Wands": {
         "meaning": "Planning, ambition, exploration.",
         "interpretation": "Setting career goals.",
-        "elaborated_interpretation": "Vous planifiez votre avenir professionnel avec ambition. Cette carte vous invite à rêver grand et à poser les bases de vos prochaines étapes."
+        "elaborated_interpretation": "You’re mapping out your professional future with ambition. Standing at a crossroads, you’re ready to plan your next big move."
     },
     "Three of Wands": {
         "meaning": "Expansion, foresight, progress.",
         "interpretation": "Opportunities expand.",
-        "elaborated_interpretation": "Votre carrière s’ouvre à de nouvelles possibilités. Vos efforts portent leurs fruits, et vous commencez à voir les horizons s’élargir grâce à votre vision."
+        "elaborated_interpretation": "Your career horizons widen as early efforts bear fruit. Look ahead—new possibilities are unfolding thanks to your vision."
     },
     "Four of Wands": {
         "meaning": "Celebration, stability, homecoming.",
         "interpretation": "Team success or stability.",
-        "elaborated_interpretation": "Une étape professionnelle est célébrée—peut-être un projet réussi ou une stabilité retrouvée. C’est un moment de joie partagée avec vos collègues."
+        "elaborated_interpretation": "A workplace win or a stable phase calls for celebration. You’re reaping the rewards of teamwork and solid ground."
     },
     "Five of Wands": {
         "meaning": "Conflict, competition, tension.",
         "interpretation": "Rivalry at work.",
-        "elaborated_interpretation": "Des tensions ou une compétition émergent dans votre environnement pro. Ces luttes testent votre capacité à vous affirmer sans perdre votre focus."
+        "elaborated_interpretation": "Competition heats up at work—clashes with colleagues test your grit. Stay focused to rise above the fray."
     },
     "Six of Wands": {
         "meaning": "Victory, recognition, success.",
         "interpretation": "Praise for your efforts.",
-        "elaborated_interpretation": "Votre travail est reconnu et applaudi. Cette victoire professionnelle vous place sous les projecteurs, récompensant vos efforts avec fierté."
+        "elaborated_interpretation": "Your hard work gets noticed—you’re riding high on recognition and success in your career."
     },
     "Seven of Wands": {
         "meaning": "Defense, perseverance, standing firm.",
         "interpretation": "Holding your ground at work.",
-        "elaborated_interpretation": "Vous défendez votre position professionnelle face à l’opposition. Cette carte vous encourage à persévérer et à protéger ce que vous avez bâti."
+        "elaborated_interpretation": "You’re defending your position against workplace challenges. Perseverance keeps you steady under pressure."
     },
     "Eight of Wands": {
         "meaning": "Speed, movement, swift action.",
         "interpretation": "Rapid progress in a project.",
-        "elaborated_interpretation": "Tout s’accélère dans votre carrière—un projet avance vite, les opportunités fusent. C’est une période dynamique où les choses se mettent en place."
+        "elaborated_interpretation": "Things speed up fast—projects move quickly, opportunities fly in. Your career’s gaining momentum."
     },
     "Nine of Wands": {
         "meaning": "Resilience, persistence, boundaries.",
         "interpretation": "Pushing through fatigue.",
-        "elaborated_interpretation": "Vous êtes épuisé mais tenez bon dans votre carrière. Cette résilience face aux défis montre votre force—le bout du tunnel est proche."
+        "elaborated_interpretation": "You’re worn out but still standing in your career. This resilience after setbacks proves your strength—keep going."
     },
     "Ten of Wands": {
         "meaning": "Burden, responsibility, hard work.",
         "interpretation": "Overloaded at work.",
-        "elaborated_interpretation": "Les responsabilités professionnelles vous écrasent. Cette carte vous demande si tout ce poids est nécessaire—peut-être est-il temps de déléguer."
+        "elaborated_interpretation": "Work’s piling up, weighing you down. You’re carrying too much—time to delegate or shed some load."
     },
     "Page of Wands": {
         "meaning": "Enthusiasm, exploration, news.",
         "interpretation": "Exciting job prospects.",
-        "elaborated_interpretation": "Une nouvelle opportunité ou une idée professionnelle vous enthousiasme. Cette carte apporte une énergie jeune et curieuse à explorer dans votre carrière."
+        "elaborated_interpretation": "A fresh opportunity or idea sparks your career enthusiasm. Explore it with a beginner’s eager energy."
     },
     "Knight of Wands": {
         "meaning": "Action, passion, impulsiveness.",
         "interpretation": "Charging toward a goal.",
-        "elaborated_interpretation": "Vous foncez vers un objectif pro avec passion. Cette énergie impulsive peut ouvrir des portes, mais veillez à ne pas brûler les étapes."
+        "elaborated_interpretation": "You’re racing toward a career target with passion—bold moves drive you, but pace yourself to stay on track."
     },
     "Queen of Wands": {
         "meaning": "Confidence, warmth, independence.",
         "interpretation": "Shining in your role.",
-        "elaborated_interpretation": "Vous brillez dans votre carrière avec assurance et charisme. Cette reine vous pousse à prendre votre place et à inspirer ceux qui vous entourent."
+        "elaborated_interpretation": "You’re radiating confidence at work, leading with warmth and independence. Your presence inspires and stands out."
     },
     "King of Wands": {
         "meaning": "Leadership, vision, boldness.",
         "interpretation": "Leading with authority.",
-        "elaborated_interpretation": "Vous prenez les rênes de votre carrière avec une vision audacieuse. Ce roi incarne un leadership naturel qui transforme vos ambitions en succès."
+        "elaborated_interpretation": "You’re taking charge of your career with a clear vision—bold leadership turns your ambitions into reality."
     },
     "Ace of Cups": {
         "meaning": "New emotions, love, intuition.",
         "interpretation": "Emotional investment in work.",
-        "elaborated_interpretation": "Une nouvelle passion ou un élan émotionnel enrichit votre carrière. C’est un début où vous mettez votre cœur dans ce que vous faites."
+        "elaborated_interpretation": "A new wave of passion flows into your career. You’re pouring your heart into your job, sparking fulfillment."
     },
     "Two of Cups": {
         "meaning": "Partnership, connection, unity.",
         "interpretation": "A strong work alliance.",
-        "elaborated_interpretation": "Une collaboration harmonieuse booste votre carrière. Cette carte célèbre une connexion professionnelle où les efforts s’unissent pour un succès commun."
+        "elaborated_interpretation": "A key collaboration boosts your career—teamwork with someone in sync brings success."
     },
     "Three of Cups": {
         "meaning": "Friendship, joy, celebration.",
         "interpretation": "Team camaraderie.",
-        "elaborated_interpretation": "Votre environnement pro s’illumine de joie et d’esprit d’équipe. Une célébration ou une bonne entente avec vos collègues renforce votre travail."
+        "elaborated_interpretation": "Your workplace buzzes with joy and connection—celebrating with colleagues strengthens your career vibe."
     },
     "Four of Cups": {
         "meaning": "Apathy, reevaluation, discontent.",
         "interpretation": "Boredom with your job.",
-        "elaborated_interpretation": "Vous ressentez une lassitude professionnelle, peut-être ignorant une opportunité sous vos yeux. Cette carte vous pousse à réévaluer ce qui vous motive."
+        "elaborated_interpretation": "You’re feeling uninspired at work, maybe missing an opportunity nearby. Reassess what drives you."
     },
     "Five of Cups": {
         "meaning": "Loss, regret, sorrow.",
         "interpretation": "Regret over a work choice.",
-        "elaborated_interpretation": "Un échec ou une décision passée vous hante dans votre carrière. Mais tout n’est pas perdu—cette carte vous invite à voir ce qui reste à saisir."
+        "elaborated_interpretation": "A career misstep or loss lingers in your mind. Focus on what’s left to rebuild from this regret."
     },
     "Six of Cups": {
         "meaning": "Nostalgia, memories, kindness.",
         "interpretation": "Past skills resurface.",
-        "elaborated_interpretation": "Des compétences ou expériences passées refont surface dans votre carrière. Cette nostalgie peut vous guider vers une nouvelle application de vos talents."
+        "elaborated_interpretation": "Old talents or experiences come back into play at work—nostalgia fuels a fresh career twist."
     },
     "Seven of Cups": {
         "meaning": "Choices, fantasy, illusion.",
         "interpretation": "Too many job options.",
-        "elaborated_interpretation": "Vous êtes face à un éventail d’options professionnelles, certaines réalistes, d’autres illusoires. Clarifiez vos priorités pour éviter de vous disperser."
+        "elaborated_interpretation": "You’re swimming in career possibilities—some real, some mirages. Narrow it down to what’s solid."
     },
     "Eight of Cups": {
         "meaning": "Walking away, seeking, transition.",
         "interpretation": "Quitting for something deeper.",
-        "elaborated_interpretation": "Vous laissez un job ou une situation pro insatisfaisante. Cette quête vous mène vers un travail qui résonne plus avec votre âme."
+        "elaborated_interpretation": "You’re leaving a job that doesn’t fulfill you, chasing a career with more meaning."
     },
     "Nine of Cups": {
         "meaning": "Satisfaction, wishes fulfilled, comfort.",
         "interpretation": "Contentment in your work.",
-        "elaborated_interpretation": "Vos désirs professionnels se réalisent, apportant une satisfaction profonde. C’est un moment où vous vous sentez comblé par votre carrière."
+        "elaborated_interpretation": "Your career dreams come true, leaving you satisfied and at ease with your achievements."
     },
     "Ten of Cups": {
         "meaning": "Happiness, family, harmony.",
         "interpretation": "Work-life balance achieved.",
-        "elaborated_interpretation": "Votre carrière s’harmonise avec votre vie personnelle. Cette carte célèbre un équilibre où le travail soutient votre bonheur global."
+        "elaborated_interpretation": "Your career aligns perfectly with your life, creating a harmonious balance that feels like bliss."
     },
     "Page of Cups": {
         "meaning": "Creativity, messages, sensitivity.",
         "interpretation": "Creative ideas at work.",
-        "elaborated_interpretation": "Une nouvelle idée ou une approche sensible émerge dans votre carrière. Cette carte apporte une touche de créativité qui peut transformer votre rôle."
+        "elaborated_interpretation": "A fresh, imaginative idea bubbles up in your career—embrace this gentle inspiration."
     },
     "Knight of Cups": {
         "meaning": "Romance, charm, idealism.",
         "interpretation": "Pursuing a dream job.",
-        "elaborated_interpretation": "Vous suivez votre cœur vers un idéal professionnel. Ce chevalier vous pousse à chasser vos rêves avec charme et détermination."
+        "elaborated_interpretation": "You’re chasing a career ideal with heart—this romantic pursuit could land your dream gig."
     },
     "Queen of Cups": {
         "meaning": "Compassion, intuition, nurturing.",
         "interpretation": "Emotional support at work.",
-        "elaborated_interpretation": "Une présence intuitive et bienveillante guide votre carrière—peut-être vous-même ou un collègue. C’est une force douce qui apaise les tensions pros."
+        "elaborated_interpretation": "A kind, intuitive presence—yours or a colleague’s—softens your work life, offering support."
     },
     "King of Cups": {
         "meaning": "Emotional balance, wisdom, calm.",
         "interpretation": "Calm leadership.",
-        "elaborated_interpretation": "Vous dirigez votre carrière avec une sagesse émotionnelle. Ce roi incarne un équilibre qui inspire confiance et stabilité dans votre environnement pro."
+        "elaborated_interpretation": "You lead your career with emotional wisdom—a steady hand that keeps the ship sailing smoothly."
     },
     "Ace of Swords": {
         "meaning": "Clarity, truth, breakthrough.",
         "interpretation": "A clear career insight.",
-        "elaborated_interpretation": "Une percée mentale illumine votre chemin pro. Cette carte offre une clarté tranchante pour résoudre des problèmes ou définir vos objectifs."
+        "elaborated_interpretation": "A sharp realization cuts through work confusion, giving you a clear vision for your next step."
     },
     "Two of Swords": {
         "meaning": "Indecision, stalemate, choice.",
         "interpretation": "Stuck on a job decision.",
-        "elaborated_interpretation": "Vous êtes face à un choix professionnel difficile—rester ou partir, par exemple. Cette impasse demande une décision pour débloquer votre progression."
+        "elaborated_interpretation": "You’re torn between career paths—stay or go? A tough choice looms, needing resolution."
     },
     "Three of Swords": {
         "meaning": "Heartbreak, sorrow, betrayal.",
         "interpretation": "A professional letdown.",
-        "elaborated_interpretation": "Une déception au travail vous touche—peut-être une trahison ou un échec. Ce chagrin est réel, mais il ouvre la voie à des leçons précieuses."
+        "elaborated_interpretation": "A sting at work—betrayal or failure—hurts deeply. It’s a wound to heal, but lessons lie within."
     },
     "Four of Swords": {
         "meaning": "Rest, recovery, contemplation.",
         "interpretation": "A work break.",
-        "elaborated_interpretation": "Vous avez besoin de repos dans votre carrière. Cette pause contemplative recharge vos batteries pour revenir plus fort et plus clair."
+        "elaborated_interpretation": "You need a breather from career stress—rest now to recharge and return sharper."
     },
     "Five of Swords": {
         "meaning": "Conflict, defeat, tension.",
         "interpretation": "Loss in a work rivalry.",
-        "elaborated_interpretation": "Un conflit pro vous laisse perdant ou amer. Cette carte vous demande si la bataille valait le coût—parfois, se retirer est plus sage."
+        "elaborated_interpretation": "A workplace fight leaves you bruised—win or lose, the cost stings. Pick your battles wisely."
     },
     "Six of Swords": {
         "meaning": "Transition, healing, moving on.",
         "interpretation": "Shifting to a better job.",
-        "elaborated_interpretation": "Vous quittez une situation pro difficile pour un poste plus calme. Cette transition guérit vos blessures et vous mène vers un avenir meilleur."
+        "elaborated_interpretation": "You’re leaving a rough work patch for smoother seas—a new job or role heals old stress."
     },
     "Seven of Swords": {
         "meaning": "Deception, strategy, stealth.",
         "interpretation": "Sneaky moves at work.",
-        "elaborated_interpretation": "Vous jouez vos cartes en secret—peut-être une stratégie ou une méfiance envers vos collègues. Cette carte vous pousse à réfléchir à l’éthique de vos actions."
+        "elaborated_interpretation": "You’re playing it sly at work—strategy or secrecy guides you. Watch the ethics of your game."
     },
     "Eight of Swords": {
         "meaning": "Restriction, fear, entrapment.",
         "interpretation": "Stuck in a job.",
-        "elaborated_interpretation": "Vous vous sentez piégé dans votre rôle pro, peut-être par la peur ou les circonstances. Ces limites sont souvent auto-imposées—cherchez la sortie."
+        "elaborated_interpretation": "You feel trapped in your career—fear or circumstance binds you. The way out starts in your mind."
     },
     "Nine of Swords": {
         "meaning": "Anxiety, despair, nightmares.",
         "interpretation": "Stress about work.",
-        "elaborated_interpretation": "L’angoisse professionnelle vous ronge—peut-être des soucis de performance ou de pression. Cette carte vous invite à apaiser votre esprit pour avancer."
+        "elaborated_interpretation": "Work worries haunt you—pressure or doubt keeps you up. Face these fears to lighten the load."
     },
     "Ten of Swords": {
         "meaning": "Endings, betrayal, collapse.",
         "interpretation": "A job crashes down.",
-        "elaborated_interpretation": "Un effondrement pro—licenciement ou échec—marque un point bas. Mais cette fin est une libération, un nouveau départ après la chute."
+        "elaborated_interpretation": "A career low hits hard—loss or betrayal ends something big. From this ruin, renewal begins."
     },
     "Page of Swords": {
         "meaning": "Curiosity, vigilance, new ideas.",
         "interpretation": "Exploring work options.",
-        "elaborated_interpretation": "Une curiosité aiguisée vous pousse à explorer de nouvelles avenues pro. Cette carte apporte des idées fraîches et une vigilance pour saisir les opportunités."
+        "elaborated_interpretation": "You’re sniffing out new career paths with a sharp mind—curiosity drives fresh beginnings."
     },
     "Knight of Swords": {
         "meaning": "Ambition, action, haste.",
         "interpretation": "Charging at a goal.",
-        "elaborated_interpretation": "Vous foncez vers un objectif pro avec une ambition tranchante. Cette rapidité peut réussir, mais attention à ne pas agir trop impulsivement."
+        "elaborated_interpretation": "You’re racing toward a work target with fierce ambition—speedy, but don’t skip the details."
     },
     "Queen of Swords": {
         "meaning": "Clarity, independence, wit.",
         "interpretation": "Clear-headed at work.",
-        "elaborated_interpretation": "Une clarté mentale guide vos décisions pro. Cette reine vous pousse à trancher avec précision et à rester indépendante dans vos choix."
+        "elaborated_interpretation": "You cut through career noise with sharp insight—independent and precise in your approach."
     },
     "King of Swords": {
         "meaning": "Authority, intellect, discipline.",
         "interpretation": "Leading with logic.",
-        "elaborated_interpretation": "Vous dirigez votre carrière avec une autorité intellectuelle. Ce roi incarne une discipline qui vous permet de prendre des décisions rationnelles et efficaces."
+        "elaborated_interpretation": "You rule your career with a cool head—logic and discipline steer you to success."
     },
     "Ace of Pentacles": {
         "meaning": "Opportunity, prosperity, new wealth.",
         "interpretation": "A lucrative chance.",
-        "elaborated_interpretation": "Une opportunité professionnelle concrète et prometteuse se présente. Cette carte plante les graines d’un succès financier ou d’une stabilité accrue."
+        "elaborated_interpretation": "A golden opportunity lands in your career—something solid and prosperous takes root."
     },
     "Two of Pentacles": {
         "meaning": "Balance, adaptability, juggling.",
         "interpretation": "Multitasking at work.",
-        "elaborated_interpretation": "Vous gérez plusieurs tâches pro avec agilité. Cette carte célèbre votre capacité à vous adapter et à maintenir l’équilibre sous la pression."
+        "elaborated_interpretation": "You’re juggling tasks with skill—adaptability keeps your career spinning smoothly."
     },
     "Three of Pentacles": {
         "meaning": "Teamwork, skill, collaboration.",
         "interpretation": "Team success.",
-        "elaborated_interpretation": "Votre carrière prospère grâce à la collaboration. Vos compétences s’unissent à celles des autres pour construire quelque chose de solide et reconnu."
+        "elaborated_interpretation": "Your skills shine in collaboration—working with others builds something strong at work."
     },
     "Four of Pentacles": {
         "meaning": "Security, control, possessiveness.",
         "interpretation": "Hoarding resources.",
-        "elaborated_interpretation": "Vous vous accrochez à la sécurité pro—argent, poste ou statut. Cette prudence peut protéger, mais trop de contrôle risque de freiner votre croissance."
+        "elaborated_interpretation": "You’re clinging to job security or control—holding tight works, but don’t stifle growth."
     },
     "Five of Pentacles": {
         "meaning": "Hardship, loss, isolation.",
         "interpretation": "Financial or job struggles.",
-        "elaborated_interpretation": "Une période de difficulté pro vous isole—peut-être une perte d’emploi ou des soucis d’argent. Cette carte vous rappelle qu’il y a de l’aide à portée de main."
+        "elaborated_interpretation": "Work feels tough—money or opportunity slips away. Yet, support is near if you seek it."
     },
     "Six of Pentacles": {
         "meaning": "Generosity, sharing, support.",
-        "interpretationSorry about that, something didn't go as planned. Please try again, and if you're still seeing this message, go ahead and restart the app.
+        "interpretation": "Help from colleagues.",
+        "elaborated_interpretation": "A give-and-take boosts your career—support from others or your own generosity pays off."
+    },
+    "Seven of Pentacles": {
+        "meaning": "Patience, investment, growth.",
+        "interpretation": "Long-term work payoff.",
+        "elaborated_interpretation": "Your career’s a slow burn—patience now means rewards later from steady investment."
+    },
+    "Eight of Pentacles": {
+        "meaning": "Diligence, mastery, work.",
+        "interpretation": "Honing your craft.",
+        "elaborated_interpretation": "You’re sharpening your skills with dedication—every effort hones your career mastery."
+    },
+    "Nine of Pentacles": {
+        "meaning": "Abundance, independence, luxury.",
+        "interpretation": "Enjoying work rewards.",
+        "elaborated_interpretation": "Your hard work blooms into abundance—an independent success you can savor."
+    },
+    "Ten of Pentacles": {
+        "meaning": "Legacy, stability, family wealth.",
+        "interpretation": "Long-term success.",
+        "elaborated_interpretation": "Your career builds a lasting legacy—stable, prosperous, and rooted in enduring value."
+    },
+    "Page of Pentacles": {
+        "meaning": "Ambition, learning, opportunity.",
+        "interpretation": "Studying for success.",
+        "elaborated_interpretation": "A new career seed sprouts—learning or a fresh chance fuels your ambition."
+    },
+    "Knight of Pentacles": {
+        "meaning": "Reliability, effort, routine.",
+        "interpretation": "Consistent work effort.",
+        "elaborated_interpretation": "You’re the steady worker—reliable and methodical, building career wins step by step."
+    },
+    "Queen of Pentacles": {
+        "meaning": "Nurturing, practicality, wealth.",
+        "interpretation": "Practical success.",
+        "elaborated_interpretation": "You nurture your career with practical smarts—grounded efforts yield rich results."
+    },
+    "King of Pentacles": {
+        "meaning": "Success, stability, leadership.",
+        "interpretation": "Mastery in your field.",
+        "elaborated_interpretation": "You reign over your career with success and stability—a master of your domain."
+    }
+}
